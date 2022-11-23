@@ -1,0 +1,225 @@
+[{
+        "id": "01",
+        "name": "Amélie",
+        "team": "Mexico",
+        "avatar": "./Avatars/Amelie.png",
+        "shirts": "./Shirts/Mexico.png"
+    },
+    {
+        "id": "02",
+        "name": "Anke",
+        "team": "Serbia",
+        "avatar": "./Avatars/Anke.png",
+        "shirts": "./Shirts/Serbia.png"
+    },
+    {
+        "id": "03",
+        "name": "Anne",
+        "team": "Ghana",
+        "avatar": "./Avatars/Anne.png",
+        "shirts": "./Shirts/Ghana.png"
+    },
+    {
+        "id": "04",
+        "name": "Anto",
+        "team": "Germany",
+        "avatar": "./Avatars/Anto.png",
+        "shirts": "./Shirts/Germany.png"
+    },
+    {
+        "id": "05",
+        "name": "Anto",
+        "team": "South Korea",
+        "avatar": "./Avatars/Anto.png",
+        "shirts": "./Shirts/South-Korea.png"
+    },
+    {
+        "id": "06",
+        "name": "Christian",
+        "team": "USA",
+        "avatar": "./Avatars/Christian.png",
+        "shirts": "./Shirts/USA.png"
+    },
+    {
+        "id": "07",
+        "name": "Christoph",
+        "team": "Cameroon",
+        "avatar": "./Avatars/Christoph.png",
+        "shirts": "./Shirts/Cameroon.png"
+    },
+    {
+        "id": "08",
+        "name": "Donny",
+        "team": "Canada",
+        "avatar": "./Avatars/Donny.png",
+        "shirts": "./Shirts/Canada.png"
+    },
+    {
+        "id": "09",
+        "name": "Fi",
+        "team": "Netherlands",
+        "avatar": "./Avatars/Fi.png",
+        "shirts": "./Shirts/Netherlands.png"
+    },
+    {
+        "id": "10",
+        "name": "Fi",
+        "team": "Spain",
+        "avatar": "./Avatars/Fi.png",
+        "shirts": "./Shirts/Spain.png"
+    },
+    {
+        "id": "11",
+        "name": "Fynn",
+        "team": "Qatar",
+        "avatar": "./Avatars/Fynn.png",
+        "shirts": "./Shirts/Qatar.png"
+    },
+    {
+        "id": "12",
+        "name": "Fynn",
+        "team": "Morrocco",
+        "avatar": "./Avatars/Fynn.png",
+        "shirts": "./Shirts/Morrocco.png"
+    },
+    {
+        "id": "13",
+        "name": "Henry",
+        "team": "Argentina",
+        "avatar": "./Avatars/Henry.png",
+        "shirts": "./Shirts/Argentina.png"
+    },
+    {
+        "id": "14",
+        "name": "Henry",
+        "team": "France",
+        "avatar": "./Avatars/Henry.png",
+        "shirts": "./Shirts/France.png"
+    },
+    {
+        "id": "15",
+        "name": "Jan-Philip",
+        "team": "Croatia",
+        "avatar": "./Avatars/JP.png",
+        "shirts": "./Shirts/Croatia.png"
+    },
+    {
+        "id": "16",
+        "name": "Jan-Philip",
+        "team": "Denmark",
+        "avatar": "./Avatars/JP.png",
+        "shirts": "./Shirts/Denmark.png"
+    },
+    {
+        "id": "17",
+        "name": "Kathleen",
+        "team": "Australia",
+        "avatar": "./Avatars/Kathleen.png",
+        "shirts": "./Shirts/Australia.png"
+    },
+    {
+        "id": "18",
+        "name": "Kathleen",
+        "team": "Wales",
+        "avatar": "./Avatars/Kathleen.png",
+        "shirts": "./Shirts/Wales.png"
+    },
+    {
+        "id": "19",
+        "name": "Leonie",
+        "team": "Brazil",
+        "avatar": "./Avatars/Leonie.png",
+        "shirts": "./Shirts/Brazil.png"
+    },
+    {
+        "id": "20",
+        "name": "Liam",
+        "team": "Saudi Arabia",
+        "avatar": "./Avatars/Liam.png",
+        "shirts": "./Shirts/Saudi-Arabia.png"
+    },
+    {
+        "id": "21",
+        "name": "Luna",
+        "team": "Poland",
+        "avatar": "./Avatars/Luna.png",
+        "shirts": "./Shirts/Poland.png"
+    },
+    {
+        "id": "22",
+        "name": "Luna",
+        "team": "Senegal",
+        "avatar": "./Avatars/Luna.png",
+        "shirts": "./Shirts/Senegal.png"
+    },
+    {
+        "id": "23",
+        "name": "Marie",
+        "team": "Uruguay",
+        "avatar": "./Avatars/Marie.png",
+        "shirts": "./Shirts/Uruguay.png"
+    },
+    {
+        "id": "24",
+        "name": "Míne",
+        "team": "Belgium",
+        "avatar": "./Avatars/Mine.png",
+        "shirts": "./Shirts/Belgium.png"
+    },
+    {
+        "id": "25",
+        "name": "Míne",
+        "team": "Switzerland",
+        "avatar": "./Avatars/Mine.png",
+        "shirts": "./Shirts/Switzerland.png"
+    },
+    {
+        "id": "26",
+        "name": "Oisín",
+        "team": "England",
+        "avatar": "./Avatars/Oisi.png",
+        "shirts": "./Shirts/England.png"
+    },
+    {
+        "id": "27",
+        "name": "Paula",
+        "team": "Japan",
+        "avatar": "./Avatars/Paula.png",
+        "shirts": "./Shirts/Japan.png"
+    },
+    {
+        "id": "28",
+        "name": "Paula",
+        "team": "Tunisia",
+        "avatar": "./Avatars/Paula.png",
+        "shirts": "./Shirts/Tunisia.png"
+    },
+    {
+        "id": "29",
+        "name": "Rebecca",
+        "team": "Ecuador",
+        "avatar": "./Avatars/Rebecca.png",
+        "shirts": "./Shirts/Ecuador.png"
+    },
+    {
+        "id": "30",
+        "name": "Róisín",
+        "team": "Iran",
+        "avatar": "./Avatars/Ro.png",
+        "shirts": "./Shirts/Iran.png"
+    },
+    {
+        "id": "31",
+        "name": "Rose",
+        "team": "Costa Rica",
+        "avatar": "./Avatars/Rose.png",
+        "shirts": "./Shirts/Costa-Rica.png"
+    },
+    {
+        "id": "32",
+        "name": "Rose",
+        "team": "Portugal",
+        "avatar": "./Avatars/Rose.png",
+        "shirts": "./Shirts/Portugal.png"
+    }
+]
